@@ -14,4 +14,5 @@ Predict road accidents using Data Mining & Machine Learning.
 - Accuracy Graph & Prediction Ratio
 - Admin Dashboard to View All Predictions
 
-**Project Report:** Full_Report.pdf file lo chudandi.
+Full Project Report kosam ee link click cheyandi:
+https://docs.google.com/document/d/1UKEvfHXSUYcXszkNE2u3uovOB7FGG9My/edit?usp=drivesdk&ouid=115208794699727393259&rtpof=true&sd=true
